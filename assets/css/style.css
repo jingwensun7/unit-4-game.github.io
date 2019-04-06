@@ -1,0 +1,52 @@
+body {
+    background-image: url("../images/1.png");
+    text-align: left;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.container {
+    margin: 5px;
+}
+.col-md-4 {
+    Background: orange;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 8px;
+}
+.col-md-6 {
+    background: peachpuff;
+    color: green;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.col-md-3 {
+    background: green;
+    margin-bottom: 8px;
+    padding: 17px;
+}
+.col-md-2 {
+    background: mediumspringgreen;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+.score {
+    font-weight: bold;
+    color: white;
+    background: rgb(30, 160, 117);
+    margin-bottom: 8px;
+}
+.user {
+    color: white;
+    background: rgb(30, 160, 117);
+    margin-bottom: 8px;
+}
+.crystals {
+    display: flex;
+}
+.crystal {
+    border: 1px solid green;
+    height: 110px;
+    width: 110px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+}
